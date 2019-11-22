@@ -8,6 +8,8 @@ using namespace std;
  
  
 class Base
+
+ ////1212
 {
 public:
     Base() { cout << "Construct Base object\n"; }
