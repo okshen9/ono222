@@ -4,6 +4,8 @@
 using namespace std;
 /*
 class Base
+ 
+ // в мастере
 
  ////1212
  //master2
