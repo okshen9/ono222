@@ -4,17 +4,13 @@
 using namespace std;
 /*
  1-------sdvsdsdv
- //тест медж
  
  //в еденичку
  //второе изменение в еденичку
  
 class Base
- 
- // в мастере
 
  ////1212
- //master2
 {
 public:
     Base() { cout << "Construct Base object\n"; }
