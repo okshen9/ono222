@@ -8,8 +8,11 @@ using namespace std;
  //в еденичку
  
 class Base
+ 
+ // в мастере
 
  ////1212
+ //master2
 {
 public:
     Base() { cout << "Construct Base object\n"; }
