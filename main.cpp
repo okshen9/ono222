@@ -5,7 +5,7 @@ using namespace std;
 /*
  1-------sdvsdsdv
  
- 
+ //в еденичку
  
 class Base
 
